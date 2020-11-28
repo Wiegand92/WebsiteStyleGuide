@@ -14,5 +14,5 @@ This is a project for CodeCademy to build a reference sheet for building a websi
 
 ## Inspiration
 
--[CodeCademy]{https://www.codecademy.com/}
--[CloudFlare]{https://cloudflare.design/color}
+-[CodeCademy](https://www.codecademy.com/)    
+-[CloudFlare](https://cloudflare.design/color)
